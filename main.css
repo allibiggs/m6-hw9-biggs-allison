@@ -1,0 +1,19 @@
+body {
+    background: rgb(0,0,38);
+    background: linear-gradient(137deg, rgba(0,0,38,1) 0%, rgba(23,52,153,1) 46%, rgba(66,178,254,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+}
+
+h1 {
+    font-size: 3rem;
+}
